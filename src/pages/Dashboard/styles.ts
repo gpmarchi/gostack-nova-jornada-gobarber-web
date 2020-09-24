@@ -130,6 +130,7 @@ export const NextAppointment = styled.div`
     strong {
       margin-left: 24px;
       color: #fff;
+      font-size: 24px;
     }
 
     span {
@@ -149,7 +150,7 @@ export const NextAppointment = styled.div`
 export const Section = styled.section`
   margin-top: 20px;
 
-  strong {
+  > strong {
     color: #999591;
     font-size: 20px;
     line-height: 26px;
