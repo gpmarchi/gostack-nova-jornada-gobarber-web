@@ -54,6 +54,7 @@
   "devDependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.0.4",
+    "@testing-library/react-hooks": "^3.4.2",
     "@types/react-router-dom": "^5.1.5",
     "@types/styled-components": "^5.1.2",
     "@types/yup": "^0.29.5",
@@ -69,6 +70,7 @@
     "eslint-plugin-react-hooks": "^4",
     "jest-environment-jsdom-sixteen": "^1.0.3",
     "prettier": "^2.0.5",
+    "react-test-renderer": "^16.13.1",
     "typescript": "^4.0.3"
   }
 }
